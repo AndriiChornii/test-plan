@@ -11,6 +11,5 @@ In the <a href="https://walkme.dog">Walkme App</a> project, I functioned as the 
 
 All next examples will be provided as screenshots from the Testiny platform that I as desired for hodling QA documentation
 
-Screenshot 1:
-
-[![Screenshot 1](https://github.com/AndriiChornii/test-plan/blob/main/assets/TestPlan1.png)]
+Screenshot of Test Plan 1:
+![Screenshot 1](https://github.com/AndriiChornii/test-plan/blob/main/assets/TestPlan1.png)
